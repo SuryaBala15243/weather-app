@@ -1,7 +1,7 @@
 #this
  # Weather App 🌦️
 
-A simple weather application that fetches real-time data using API.
+A simple weather application that fetches real-time data using Application programming interface.
 
 ## Features
 - Search weather by city
