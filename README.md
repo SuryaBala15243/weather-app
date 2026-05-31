@@ -9,6 +9,6 @@ A simple weather application that fetches real-time data using API.
 - Clean UI
 
 ## Tech Stack
-- HTML
+- html
 - CSS
 - JavaScript
