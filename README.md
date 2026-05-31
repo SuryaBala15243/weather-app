@@ -1,12 +1,12 @@
 #this
  # Weather App 🌦️
 
-A simple weather application that fetches real-time data using API.
+A simple weather application that fetches real-time data using API and it used for the weather application.
 
 ## Features
 - Search weather by city
 - Displays temperature, humidity
-- Clean UI
+- It based on Clean UI
 
 ## Tech Stack
 - html
